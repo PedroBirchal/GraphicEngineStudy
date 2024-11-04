@@ -1,0 +1,11 @@
+﻿  GraphicEngine.cpp
+D:\LimaGraphicEngine\GraphicEngine\olcConsoleGameEngine.h(784,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'GraphicEngine.cpp')
+  
+D:\LimaGraphicEngine\GraphicEngine\GraphicEngine.cpp(161,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\LimaGraphicEngine\GraphicEngine\GraphicEngine.cpp(161,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\LimaGraphicEngine\GraphicEngine\GraphicEngine.cpp(160,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\LimaGraphicEngine\GraphicEngine\GraphicEngine.cpp(160,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\LimaGraphicEngine\GraphicEngine\GraphicEngine.cpp(159,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\LimaGraphicEngine\GraphicEngine\GraphicEngine.cpp(159,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GraphicEngine.vcxproj -> D:\LimaGraphicEngine\GraphicEngine\x64\Debug\GraphicEngine.exe
